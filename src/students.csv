@@ -1,0 +1,6 @@
+studentId,name,email,registeredCourses,courseId,status
+N210699,John Doe,john.doe@example.com,3,NOC23-CS123,Active
+N210699,John Doe,john.doe@example.com,3,NOC23-CS456,Process
+N210699,John Doe,john.doe@example.com,3,NOC23-CS789,Active
+N210700,Jane Smith,jane.smith@example.com,2,NOC23-CS234,Active
+N210700,Jane Smith,jane.smith@example.com,2,NOC23-CS567,Process
